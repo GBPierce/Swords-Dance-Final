@@ -1,0 +1,1060 @@
+fileFormatVersion: 2
+guid: 658102a2a6b454b62b75b4c5661dc174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2162145779411120089
+    second: Sword4Death_0
+  - first:
+      213: 1132649538484348083
+    second: Sword4Death_1
+  - first:
+      213: -5007156145306544125
+    second: Sword4Death_2
+  - first:
+      213: 2797931772424241118
+    second: Sword4Death_3
+  - first:
+      213: -3189741376652952857
+    second: Sword4Death_4
+  - first:
+      213: 6656417080171600523
+    second: Sword4Death_5
+  - first:
+      213: 6196993610533456194
+    second: Sword4Death_6
+  - first:
+      213: 2909727392884303983
+    second: Sword4Death_7
+  - first:
+      213: 8852912531816819786
+    second: Sword4Death_8
+  - first:
+      213: 2350984924136507308
+    second: Sword4Death_9
+  - first:
+      213: -3244769290099087692
+    second: Sword4Death_10
+  - first:
+      213: 4403299500072482206
+    second: Sword4Death_11
+  - first:
+      213: 4354172834547652217
+    second: Sword4Death_12
+  - first:
+      213: 8096959236054856523
+    second: Sword4Death_13
+  - first:
+      213: -8445377206706008737
+    second: Sword4Death_14
+  - first:
+      213: -2284768575037438499
+    second: Sword4Death_15
+  - first:
+      213: -4307477228164014557
+    second: Sword4Death_16
+  - first:
+      213: 8468679893764352649
+    second: Sword4Death_17
+  - first:
+      213: 1815311849830761747
+    second: Sword4Death_18
+  - first:
+      213: 5349217786015245063
+    second: Sword4Death_19
+  - first:
+      213: -3716295635386175001
+    second: Sword4Death_20
+  - first:
+      213: -6597849036924172033
+    second: Sword4Death_21
+  - first:
+      213: 5472675732010505012
+    second: Sword4Death_22
+  - first:
+      213: 4328605271832297958
+    second: Sword4Death_23
+  - first:
+      213: -3998931340590585449
+    second: Sword4Death_24
+  - first:
+      213: -2047636927485677073
+    second: Sword4Death_25
+  - first:
+      213: 8670824980438586100
+    second: Sword4Death_26
+  - first:
+      213: 4282633778677070746
+    second: Sword4Death_27
+  - first:
+      213: 5053996287122486564
+    second: Sword4Death_28
+  - first:
+      213: 913325343263886197
+    second: Sword4Death_29
+  - first:
+      213: 4531576907376287704
+    second: Sword4Death_30
+  - first:
+      213: -8174738215349431668
+    second: Sword4Death_31
+  - first:
+      213: 5950027387445188038
+    second: Sword4Death_32
+  - first:
+      213: -9040121222071952807
+    second: Sword4Death_33
+  - first:
+      213: -6420242961190427958
+    second: Sword4Death_34
+  - first:
+      213: -4512284487634134676
+    second: Enemy_Shatter_3_0
+  - first:
+      213: -7446952913743141221
+    second: Enemy_Shatter_3_1
+  - first:
+      213: -484769430019653065
+    second: Enemy_Shatter_3_2
+  - first:
+      213: -4971847822902822751
+    second: Enemy_Shatter_3_3
+  - first:
+      213: -8815005751151755310
+    second: Enemy_Shatter_3_4
+  - first:
+      213: -2462555752885779021
+    second: Enemy_Shatter_3_5
+  - first:
+      213: -1651661445894897958
+    second: Enemy_Shatter_3_6
+  - first:
+      213: -7396171816347355396
+    second: Enemy_Shatter_3_7
+  - first:
+      213: 6466438918023305592
+    second: Enemy_Shatter_3_8
+  - first:
+      213: 9086869919618681714
+    second: Enemy_Shatter_3_9
+  - first:
+      213: -6829686806733614635
+    second: Enemy_Shatter_3_10
+  - first:
+      213: -2385537234104731493
+    second: Enemy_Shatter_3_11
+  - first:
+      213: -744479895157855761
+    second: Enemy_Shatter_3_12
+  - first:
+      213: 2493650626245687699
+    second: Enemy_Shatter_3_13
+  - first:
+      213: -6935715033529778928
+    second: Enemy_Shatter_3_14
+  - first:
+      213: -532305206781746162
+    second: Enemy_Shatter_3_15
+  - first:
+      213: -2990590599496253544
+    second: Enemy_Shatter_3_16
+  - first:
+      213: 2624334768012406203
+    second: Enemy_Shatter_3_17
+  - first:
+      213: -943412422592499207
+    second: Enemy_Shatter_3_18
+  - first:
+      213: -247737279993465925
+    second: Enemy_Shatter_3_19
+  - first:
+      213: -3141373762438555763
+    second: Enemy_Shatter_3_20
+  - first:
+      213: -4549931038231937097
+    second: Enemy_Shatter_3_21
+  - first:
+      213: -6928166860902668407
+    second: Enemy_Shatter_3_22
+  - first:
+      213: -2030016461464975656
+    second: Enemy_Shatter_3_23
+  - first:
+      213: -4382767210242086084
+    second: Enemy_Shatter_3_24
+  - first:
+      213: 7922407563379538796
+    second: Enemy_Shatter_3_25
+  - first:
+      213: -6218032174867106587
+    second: Enemy_Shatter_3_26
+  - first:
+      213: -1319332472886425529
+    second: Enemy_Shatter_3_27
+  - first:
+      213: 3416277061634495841
+    second: Enemy_Shatter_3_28
+  - first:
+      213: -7294881032914870065
+    second: Enemy_Shatter_3_29
+  - first:
+      213: 8886754804245413703
+    second: Enemy_Shatter_3_30
+  - first:
+      213: 285025308858332118
+    second: Enemy_Shatter_3_31
+  - first:
+      213: -2997093796339786857
+    second: Enemy_Shatter_3_32
+  - first:
+      213: 7195881349150890634
+    second: Enemy_Shatter_3_33
+  - first:
+      213: -368191287053207667
+    second: Enemy_Shatter_3_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffc60dc3eaa44d029dc7278155bdedb
+      internalID: -4512284487634134676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d861e4f035e4e9aad0f8f65afc59f2
+      internalID: -7446952913743141221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c59eed1e77c4c188cb7906cacb77bc
+      internalID: -484769430019653065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f32590941e40e8985fa20a34c5861
+      internalID: -4971847822902822751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3e9bbb5c04447899bedc67d50962c
+      internalID: -8815005751151755310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54faf320a499444bc856d044532398f0
+      internalID: -2462555752885779021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5536c4e8fbe4fb6b687320e678835d
+      internalID: -1651661445894897958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f41499549c244a7a8699bed51508d2
+      internalID: -7396171816347355396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843e865e58514528a86a2c2c6327a42
+      internalID: 6466438918023305592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c02d2d054d4c17aadcf6549cb09d9
+      internalID: 9086869919618681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea86b4d45c4f4f29be8c9af67e87bee
+      internalID: -6829686806733614635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b91e28b909449e68d093ba05552026
+      internalID: -2385537234104731493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18caaee736e584c46aa6f91425c4d529
+      internalID: -744479895157855761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f390653fbbcb4a6fa244a47a5c6cd74
+      internalID: 2493650626245687699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff685f7bca44234a68d6a3d7ac6194
+      internalID: -6935715033529778928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ae8e8eb47a4d28b22f336a782d7ed
+      internalID: -532305206781746162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5f761e5bc6491b8ede33e7caec227
+      internalID: -2990590599496253544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedc1e414af445aa9cd71cdf1386002
+      internalID: 2624334768012406203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfbd4f747b1a4ea5ac670ad6d990fac
+      internalID: -943412422592499207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b1d33185a746849bf75de2ea1e130
+      internalID: -247737279993465925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223e49e1ed874d6792b026165e5e79c
+      internalID: -3141373762438555763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71f9d3fc7fa3402291b915bb39fedf5
+      internalID: -4549931038231937097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65788ef8742e74e45af223b6f87d1756
+      internalID: -6928166860902668407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feead74b022b41708bf06bbb12143ff
+      internalID: -2030016461464975656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d0b62db28a4a6d9cf86422dfd2518
+      internalID: -4382767210242086084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab089307de849499aaeaa425fd4e860c
+      internalID: 7922407563379538796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c8ca45457a491c93a6ca2c6aa570c
+      internalID: -6218032174867106587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c847ce16e603442998f087d978c65de
+      internalID: -1319332472886425529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbefc3f1a2040a18a7b512b2c7d089
+      internalID: 3416277061634495841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28eee77ef454063b8924717930b447
+      internalID: -7294881032914870065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73996c1c7854cc197ce11343131e4d
+      internalID: 8886754804245413703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9114fd7083014fb6adc90eabaf6135b
+      internalID: 285025308858332118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e93f52d72b948b5982f8babbe04251
+      internalID: -2997093796339786857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021ee416153240d2b4712c0dce27fb1
+      internalID: 7195881349150890634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shatter_3_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87984243267be400489e97354a102264
+      internalID: -368191287053207667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
